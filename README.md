@@ -1,6 +1,6 @@
 # Claude Code Setup
 
-Repositorio personal para automatizar y estandarizar la configuración de Claude Code en nuevos proyectos. 
+Repositorio para automatizar y estandarizar la configuración de Claude Code en nuevos proyectos. 
 
 ## ¿Qué soluciona?
 1. **Fuerza el modelo Claude 3.5 Sonnet** globalmente para reducir costos.
@@ -20,3 +20,10 @@ Repositorio personal para automatizar y estandarizar la configuración de Claude
 
 Para entender cómo funciona el grafo de dependencias por detrás o cómo visualizar el mapa de tu código en un HTML interactivo, Revisar 
 [Code Review Graph Cheatsheet](./docs/code-review-graph-cheatsheet.md)
+
+## Créditos y Referencias
+
+**code-review-graph**: Herramienta de código abierto creada por [tirth8205](https://github.com/tirth8205). 
+
+* **Repositorio Original:** [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
+* **Licencia:** MIT
