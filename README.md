@@ -16,7 +16,7 @@ Repositorio personal para automatizar y estandarizar la configuración de Claude
    ```powershell
    & "C:\tools\claude-env-setup\setup.ps1"
 
-## 📚 Documentación Adicional
+## Documentación Adicional
 
 Para entender cómo funciona el grafo de dependencias por detrás o cómo visualizar el mapa de tu código en un HTML interactivo, Revisar 
 [Code Review Graph Cheatsheet](./docs/code-review-graph-cheatsheet.md)
