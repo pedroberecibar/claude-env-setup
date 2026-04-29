@@ -1,4 +1,4 @@
-# Claude Code Setup 🚀
+# Claude Code Setup
 
 Repositorio personal para automatizar y estandarizar la configuración de Claude Code en nuevos proyectos. 
 
@@ -15,3 +15,8 @@ Repositorio personal para automatizar y estandarizar la configuración de Claude
 3. Ejecutar el script apuntando a donde clonaste este repo:
    ```powershell
    & "C:\tools\claude-env-setup\setup.ps1"
+
+## 📚 Documentación Adicional
+
+Para entender cómo funciona el grafo de dependencias por detrás o cómo visualizar el mapa de tu código en un HTML interactivo, Revisar 
+[Code Review Graph Cheatsheet](./docs/code-review-graph-cheatsheet.md)
