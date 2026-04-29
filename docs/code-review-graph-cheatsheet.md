@@ -44,3 +44,6 @@ Esto creará un archivo interactivo en tu proyecto para explorar nodos, dependen
 **Opciones de exportación:**
 * `code-review-graph visualize --format svg` (Vectorial estático, ideal para documentos).
 * `code-review-graph visualize --format graphml` (Para analizar en software como Gephi).
+
+---
+*Esta guía es un resumen operativo. Para conocer todas las capacidades técnicas y parámetros avanzados, consultá el [Repositorio Oficial de code-review-graph](https://github.com/tirth8205/code-review-graph).*
